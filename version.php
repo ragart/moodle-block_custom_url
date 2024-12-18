@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'block_custom_url';
-$plugin->version = 2024121700;
+$plugin->version = 2024121800;
 $plugin->requires = 2022112800;
-$plugin->release = '1.0.0';
+$plugin->release = '1.0.1';
 $plugin->maturity = MATURITY_STABLE;
